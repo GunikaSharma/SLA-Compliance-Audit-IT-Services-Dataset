@@ -167,3 +167,4 @@ Built as a Business Analyst portfolio project demonstrating:
 ---
 
 *Data note: Raw ticket timestamps from public Kaggle/UCI datasets. NPS, reclassification, and contract tier columns are synthetic — modelled on real-world patterns documented in IT industry literature and earnings call disclosures.*
+**Author:** Gunika Sharma | [LinkedIn](https://www.linkedin.com/in/gunika-sharma-analyst/) | [GitHub](https://github.com/GunikaSharma)
